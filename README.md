@@ -1,4 +1,7 @@
-# Lumos-maxima
+# Lumos maxima
+
+![icon](https://user-images.githubusercontent.com/6048794/89331880-c3fe1780-d692-11ea-8bd9-e487fb9423ef.png)
+
 
 ## Available commands
 - **Nox** to set Dark mode
