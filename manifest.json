@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Lumos maxima",
+  "description": "This extension will allow you to switch to dark mode using Nox voice command.",
+  "version": "1.0",
+  "browser_action": {
+   "default_icon": "icon.png"
+  },
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "permissions": [
+    "activeTab",
+    "tabs",
+    "notifications",
+    "http://*/",
+    "https://*/"
+  ]
+}
