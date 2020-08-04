@@ -1,6 +1,6 @@
-# Lumos maxima
-
 ![icon](https://user-images.githubusercontent.com/6048794/89331880-c3fe1780-d692-11ea-8bd9-e487fb9423ef.png)
+
+# Lumos maxima
 
 
 ## Available commands
@@ -9,8 +9,8 @@
 - **Lumos maxima** to set Ultra light mode
 
 ## How it works
-This extension is using the Web Speech JavaScript API.
-When you load one of the supported website, the script will start listening to your microphone.
+This extension is using the Web Speech JavaScript API.  
+When you load one of the supported website, the script will start listening to your microphone.  
 If you pronounce one of the commands, the extension will switch the color mode.
 
 ## How to install
