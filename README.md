@@ -2,6 +2,9 @@
 
 # Lumos maxima
 
+[See it in action](https://twitter.com/Mamboleoo/status/1291093918470340610)
+![image](https://user-images.githubusercontent.com/6048794/89553858-5aa31380-d80e-11ea-8f23-a6374de27576.png)
+
 
 ## Available commands
 - **Nox** to set Dark mode
